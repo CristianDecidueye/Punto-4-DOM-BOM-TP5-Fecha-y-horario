@@ -16,8 +16,7 @@ Principal referente en Argentina en el ambito de mostracion de hora, fecha, dia 
 
 ## 💻 Sobre ViewTime
 
-
-"TimeView.com" es tu destino confiable para conocer la hora exacta, día y año al instante. Con una interfaz minimalista y fácil de usar, esta página web te brinda información precisa sobre la fecha y hora actuales en cualquier momento que la visites. Ya sea que necesites sincronizar tus relojes o simplemente verificar la hora local, TimeView.com es tu recurso confiable. Olvídate de las complicaciones y accede rápidamente a la información de tiempo esencial que necesitas con esta herramienta simple pero efectiva. ¡Visita TimeView.com ahora y mantén el control del tiempo en tus manos!"
+"ViewTime.com" es tu destino confiable para conocer la hora exacta, día y año al instante. Con una interfaz minimalista y fácil de usar, esta página web te brinda información precisa sobre la fecha y hora actuales en cualquier momento que la visites. Ya sea que necesites sincronizar tus relojes o simplemente verificar la hora local, ViewTime.com es tu recurso confiable. Olvídate de las complicaciones y accede rápidamente a la información de tiempo esencial que necesitas con esta herramienta simple pero efectiva. ¡Visita ViewTime.com ahora y mantén el control del tiempo en tus manos!"
 
 
 ## ⚒️ Tecnologias implementadas
@@ -43,7 +42,7 @@ Principal referente en Argentina en el ambito de mostracion de hora, fecha, dia 
 - Clonar repositorio:
 
 ```bash
-git clone https://github.com/CristianDecidueye/Juego-Adivinanza-DOM--Punto-1
+git clone https://github.com/CristianDecidueye/Punto-4-DOM-BOM-TP5-Fecha-y-horario
 ```
 
 - Asegurarse que se encuentra en la rama `main`
@@ -75,30 +74,16 @@ _Diaz Cristian_
 
 | Medio    | Link                              |
 | -------- | --------------------------------- |
-| Email    | Adivinanza@gmail.com                   |
-| Twitter  | https://twitter.com/adivinanza         |
-| Linkedin | https://www.linkedin.com/in/adivinanza |
+| Email    | ViewTime@gmail.com                   |
+| Twitter  | https://twitter.com/ViewTime         |
+| Linkedin | https://www.linkedin.com/in/ViewTime |
 
 ## 📄 Licencia
 
-Codigo y documentacion copyright 2023-2024 de los autores de ADIVINANZA. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
+Codigo y documentacion copyright 2023-2024 de los autores de ViewTime. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
 
 
 
-
-
-<!---Markdown links & images--->
-
-[HTML5-badge]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]:http://html.com/tags/
-[CSS3-badge]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS3-url]:https://www.w3.org/Style/CSS/
-[BOOTSTRAP-badge]:https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]:https://getbootstrap.com/
-[Javascript-badge]:https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[Bootstrap-url]:https://getbootstrap.com/
-[React-badge]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Bootstrap-url]:https://getbootstrap.com/
 
 
 <!---Markdown links & images--->
